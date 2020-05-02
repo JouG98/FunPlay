@@ -1,0 +1,6 @@
+/* Este es el estilo del main */
+
+html,
+body {
+    background-image: url('./assets/bg_semicompleto.jpg');
+}
